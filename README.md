@@ -1,2 +1,2 @@
-# hwjit
+# hwgit
 hwgit-java
